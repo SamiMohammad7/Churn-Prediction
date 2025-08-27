@@ -32,7 +32,6 @@ This repo trains a customer **churn classifier** and serves real‑time predicti
 
 ## 2) Key Findings from EDA
 
-> These are the common churn signals observed in telecom datasets; exact values will vary by data snapshot. Re‑run the EDA notebook/script to regenerate plots and numbers.
 
 - **Churn rate** typically around **25–30%**.
 - **Contract type** is highly predictive: **month‑to‑month** customers churn far more than 1‑ or 2‑year contracts.
